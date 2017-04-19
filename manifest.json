@@ -2,12 +2,12 @@
     "name": "spinningship",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=JymPGAOOMw",
+            "src": "/android-chrome-192x192.png?v=jw6PpP2Vde",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=JymPGAOOMw",
+            "src": "/android-chrome-512x512.png?v=jw6PpP2Vde",
             "sizes": "512x512",
             "type": "image/png"
         }
